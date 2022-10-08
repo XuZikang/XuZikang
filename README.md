@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XuZikang
 - 👀 I’m interested in Medical image analysis, Fairness, Universal models
-- 🌱 I’m currently a Ph.D. candidate major in biomedical engineering
+- 🌱 I’m currently a Ph.D. candidate major in biomedical engineering, University of Scicece and Technology of China
 - 📫 How to reach me: zikangxu@mail.ustc.edu.cn
 
 <!---
